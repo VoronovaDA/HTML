@@ -1,16 +1,13 @@
-body {
-  margin: 0;
-  -webkit-overflow-scrolling: touch;
-  overflow-y: scroll;
-}
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
 
-.content {
-  width: 500px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 10px 20px;
-}
+  h1 {
+    font-size: 28px;
+  }
 
-p {
-  line-height: 1.5;
-}
+  a {
+    color: #349bdf;
+    text-decoration: none;
+  }
