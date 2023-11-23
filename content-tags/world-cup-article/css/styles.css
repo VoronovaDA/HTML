@@ -1,17 +1,13 @@
 body {
-  font-family: arial, sans-serif;
-  font-size: 16px;
+    font-family: Arial, sant-serif;
+    margin: 30px;
+    font-size:16px;
 }
-
-p, ol {
-  line-height: 1.5;
+.decoration {
+    decoration-text: none;
+    color: Purple;
+    font-weight: 700;
 }
-
-span {
-  font-weight: 700;
-  color: #00008B;
-}
-
-a {
-  color: #349bdf;
+.cities {
+    line-height: 10px;
 }
